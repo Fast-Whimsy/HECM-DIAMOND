@@ -102,4 +102,49 @@ Extensions support moral reasoning, political cognition, legal interpretation, a
 ---
 
 ## 6. Repository Structure (Proposed)
+/manuscript
+HECM_Main.pdf
+HECM_Technical_Supplement.pdf
 
+/src
+operators/
+resonance/
+population/
+bubbles/
+bridges/
+diagnostics/
+
+/examples
+case_studies/
+simulations/
+
+/docs
+README.md
+API.md
+Glossary.md
+
+---
+
+## 7. References
+
+- Douglas, Heather. *Science, Policy, and the Value-Free Ideal*. 2009.  
+- Kitcher, Philip. *The Advancement of Science*. 1993.  
+- Kuhn, Thomas S. *The Structure of Scientific Revolutions*. 1962.  
+- Lakatos, Imre. “Falsification and the Methodology of Scientific Research Programmes.” 1970.  
+- Longino, Helen. *Science as Social Knowledge*. 1990.  
+- Thagard, Paul. *Conceptual Revolutions*. 1989.
+
+---
+
+## 8. License
+
+MIT
+
+---
+
+## 9. Status
+
+Active development.  
+Manuscript complete.  
+Technical Supplement complete.  
+API and examples forthcoming.
