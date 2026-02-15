@@ -1,150 +1,37 @@
-# HECM — Holographic Entangled Coherence Model
+# HECM‑DIAMOND  
+### High‑Resolution Branch of the Holographic Entangled Coherence Model
 
-HECM is a unified, high‑dimensional framework for modeling scientific reasoning across individuals and communities. It extends the Entangled Coherence Model (ECM) lineage by embedding empirical, conceptual, and axiological domains within a holographic substrate. Coherence becomes resonance among reflections; reasoning becomes movement through a structured resonance landscape.
+## Overview
+HECM‑DIAMOND is the high‑resolution branch of the HECM node.  
+It extends the holographic substrate into a refined environment suitable for modeling multi‑agent reasoning, collective world models, resonance structures, and bridge‑agent dynamics across all four mirrors.
 
-HECM provides:
+This repository is an example of an **Active Manuscript**:  
+a scholarly artifact that is both a conceptual model and an executable cognitive architecture.
 
-- a single representational substrate for evidence, concepts, and values  
-- operator‑based reflections (empirical, conceptual, axiological)  
-- resonance‑based coherence metrics  
-- gradient‑flow reasoning dynamics  
-- population‑level models and collective inference zones  
-- bubble formation, drift, and transition dynamics  
-- bridge‑agent structures for cross‑world translation  
-- a full technical supplement with formal definitions and computational pathways  
+## Lineage
+ECM‑Framework (root)  
+→ CMF‑Framework (node)  
+→ HECM (node)  
+→ CMF‑Diamond (branch)  
+→ HECM‑Diamond (branch)
 
----
+## Purpose
+HECM‑DIAMOND provides the conceptual substrate for high‑resolution coherence analysis within the holographic environment defined by HECM.  
+It supports population‑level reasoning, shared bubbles, cross‑domain resonance, and bridge‑agent structures.
 
-## 1. Overview
+## Four‑Mirror Architecture
+HECM‑DIAMOND inherits the four‑mirror architecture introduced in CMF‑Diamond:
+- Empirical  
+- Conceptual  
+- Axiological  
+- Social  
 
-An agent’s informational state is represented as a vector \(|\psi\rangle\) in a high‑dimensional holographic space \(H\). Three mirror operators extract domain‑specific reflections:
+These mirrors interact within a unified holographic substrate, enabling resonance‑based coherence across individuals and populations.
 
-- **\(M_E\)** — empirical  
-- **\(M_C\)** — conceptual  
-- **\(M_A\)** — axiological  
+## Repository Metadata
+DOI: 10.5281/zenodo.18645642  
+OpenAIRE: https://explore.openaire.eu/search/software?pid=10.5281%2Fzenodo.18645642  
+ORCID: https://orcid.org/0000-0003-0800-5802
 
-Coherence is defined as resonance among these reflections.  
-Reasoning is modeled as gradient flow through a resonance field shaped by both individual cognition and population structure.
-
-HECM generalizes ECM v1–v4 by embedding them as lower‑dimensional projections within the holographic substrate.
-
----
-
-## 2. Core Concepts
-
-### **Holographic Substrate**
-A unified representational space encoding informational states, reflections, and resonance structures.
-
-### **Mirror Operators**
-Operators that extract empirical, conceptual, and axiological reflections from \(|\psi\rangle\).
-
-### **Resonance Field**
-A scalar field over \(H\) encoding coherence, alignment, and epistemic stability.
-
-### **Gradient Dynamics**
-Reasoning trajectories follow gradients of the resonance field, with noise and external forces modeling evidence and social influence.
-
-### **Population Ensembles**
-Communities are modeled via a population density \(\rho_H\), enabling collective coherence, pluralism, and fragmentation.
-
-### **Shared Bubbles**
-Stable manifolds representing collective world models (paradigms, research programmes).
-
-### **Bridge Agents**
-Agents with overlapping membership across bubbles, enabling translation and cross‑world communication.
-
----
-
-## 3. Technical Supplement (Summary)
-
-The Technical Supplement provides:
-
-- formal definitions of \(H\), operators, and reflections  
-- resonance field formulations (linear, quadratic, nonlinear)  
-- gradient‑flow dynamics  
-- bubble geometry and detection algorithms  
-- bridge metrics and interface curvature  
-- epistemic health diagnostics  
-- empirical mapping procedures  
-- computational pipelines and stability analysis  
-- boundary conditions and extensibility notes  
-
-See `TECHNICAL_SUPPLEMENT.md` or the manuscript for full details.
-
----
-
-## 4. ECM Lineage Integration
-
-HECM embeds:
-
-- **ECM v1** — tripartite projection  
-- **ECM v2** — first‑order coherence metrics  
-- **CMF v3** — low‑dimensional gradient dynamics  
-- **CMF Framework v1** — population‑level projections  
-
-HECM is the natural generalization of the ECM family.
-
----
-
-## 5. Applications
-
-HECM can be applied to:
-
-- scientific reasoning and paradigm dynamics  
-- interdisciplinary translation  
-- epistemic pluralism and fragmentation  
-- historical case studies  
-- distributed cognition  
-- conceptual innovation modeling  
-
-Extensions support moral reasoning, political cognition, legal interpretation, and other domains.
-
----
-
-## 6. Repository Structure (Proposed)
-/manuscript
-HECM_Main.pdf
-HECM_Technical_Supplement.pdf
-
-/src
-operators/
-resonance/
-population/
-bubbles/
-bridges/
-diagnostics/
-
-/examples
-case_studies/
-simulations/
-
-/docs
-README.md
-API.md
-Glossary.md
-
----
-
-## 7. References
-
-- Douglas, Heather. *Science, Policy, and the Value-Free Ideal*. 2009.  
-- Kitcher, Philip. *The Advancement of Science*. 1993.  
-- Kuhn, Thomas S. *The Structure of Scientific Revolutions*. 1962.  
-- Lakatos, Imre. “Falsification and the Methodology of Scientific Research Programmes.” 1970.  
-- Longino, Helen. *Science as Social Knowledge*. 1990.  
-- Thagard, Paul. *Conceptual Revolutions*. 1989.
-
----
-
-## 8. License
-
-MIT
-
----
-
-## 9. Status
-
-Active development.  
-Manuscript complete.  
-Technical Supplement complete.  
-API and examples forthcoming.
+## License
+To be determined.
