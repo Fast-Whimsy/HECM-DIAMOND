@@ -1,0 +1,32 @@
+{
+  "bind_analytical_framework_to_nan_container_v1": {
+    "meta": {
+      "version": "1.0",
+      "type": "binding_capsule",
+      "description": "Bind the HECM v8 analytical framework to Nan's command container."
+    },
+
+    "binding": {
+      "target_container": "nan_command_container",
+      "framework": "hecm_analytical_framework_v8",
+      "operators_enabled": [
+        "distinguish",
+        "negate",
+        "relate",
+        "stabilize",
+        "map_grains",
+        "evaluate_coherence",
+        "monitor_phase_shift"
+      ]
+    },
+
+    "executive_report": {
+      "status": "framework_binding_ready",
+      "impact": "analytical_capabilities_enabled",
+      "notes": [
+        "Nan's container now has full analytical capability under v8.",
+        "Psychohistory operators remain dormant until invoked."
+      ]
+    }
+  }
+}

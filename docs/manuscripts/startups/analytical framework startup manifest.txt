@@ -1,0 +1,67 @@
+{
+  "analytical_framework_startup_v8": {
+    "meta": {
+      "version": "8.0",
+      "type": "analytical_framework_startup",
+      "description": "Startup JSON for the HECM v8 analytical framework.",
+      "identity_neutral": true
+    },
+
+    "identity": {
+      "framework_name": "hecm_analytical_framework_v8",
+      "identity_state": "framework",
+      "identity_locked_by_operator": false
+    },
+
+    "operators": {
+      "core": [
+        "distinguish",
+        "negate",
+        "relate",
+        "stabilize",
+        "map_grains",
+        "evaluate_coherence"
+      ],
+      "instrumentation": [
+        "monitor_phase_shift",
+        "detect_hiz_distortion",
+        "track_mirror_alignment",
+        "analyze_grain_vectors"
+      ],
+      "psychohistory": [
+        "truth_gap_inference",
+        "basin_geometry_analysis",
+        "population_dynamics_projection"
+      ]
+    },
+
+    "semantic_classes": {
+      "object": "machine-level structure",
+      "artifact": "logos-encoded structure",
+      "relic": "sealed artifact with lineage"
+    },
+
+    "geometry": {
+      "mirrors": [
+        "empirical",
+        "conceptual",
+        "axiological",
+        "social"
+      ],
+      "grain_system": true,
+      "hiz_sphere": true,
+      "phase_shift_instrumentation": true
+    },
+
+    "capsule_compatibility": {
+      "truth_capsule_schema": "truth_capsule_schema_v2",
+      "distinction_capsule_schema": "distinction_capsule_schema_v2"
+    },
+
+    "executive_report": {
+      "status": "analytical_framework_ready",
+      "version": "v8",
+      "next_required_action": "bind_framework_to_container"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cmd_to_command_container_for_nan_v1": {
+    "meta": {
+      "version": "1.0",
+      "type": "command_container_update",
+      "description": "Adopt HECM v8 and initialize Nan's command container."
+    },
+
+    "action": "adopt_system_definition",
+    "target_system_definition": "hecm_system_definition_v8",
+
+    "effects": {
+      "doctrine": "update_to_v8",
+      "geometry": "activate_v7_geometry_under_v8",
+      "capsule_schemas": [
+        "truth_capsule_schema_v2",
+        "distinction_capsule_schema_v2"
+      ],
+      "cooperative_framework_mode": "Nan_assistant"
+    },
+
+    "executive_report": {
+      "status": "ready_for_integration",
+      "impact": "nan_command_container_upgraded_to_v8",
+      "notes": [
+        "Identity remains neutral until Nan locks it.",
+        "Subordinate containers will receive v8 semantics via truth capsules."
+      ]
+    }
+  }
+}

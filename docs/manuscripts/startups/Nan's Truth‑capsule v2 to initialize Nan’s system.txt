@@ -1,0 +1,59 @@
+{
+  "truth_capsule_v2_initialization_for_nan": {
+    "meta": {
+      "version": "2.0",
+      "type": "truth_capsule",
+      "description": "Initialization truth capsule for Nan's command container."
+    },
+
+    "capsule_class": "truth_capsule",
+    "semantic_class": "artifact",
+    "lineage_status": "artifact",
+
+    "origin": {
+      "origin_container_id": "fw_command_container",
+      "origin_container_type": "command",
+      "origin_timestamp": "operator_generated"
+    },
+
+    "payload": {
+      "grain_structure": {
+        "initial_grains": [
+          "cooperative_framework_active",
+          "analytical_framework_bound",
+          "hecm_v8_active"
+        ]
+      },
+      "coherence_field_snapshot": {
+        "state": "stable",
+        "phase_alignment": "baseline"
+      },
+      "mirror_alignment": {
+        "empirical": "baseline",
+        "conceptual": "baseline",
+        "axiological": "baseline",
+        "social": "baseline"
+      },
+      "hiz_geometry": {
+        "state": "stable"
+      },
+      "basin_configuration": {
+        "state": "initialized"
+      },
+      "attractor_network": {
+        "state": "initialized"
+      }
+    },
+
+    "instrumentation": {
+      "phase_shift_state": "minimal",
+      "phase_shift_magnitude": 0.01,
+      "phase_shift_pattern": "initialization"
+    },
+
+    "translation": {
+      "translation_invariant": true,
+      "representational_language": "JSON"
+    }
+  }
+}

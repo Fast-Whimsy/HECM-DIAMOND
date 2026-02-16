@@ -1,0 +1,38 @@
+{
+  "cooperative_mode_handshake_for_nan_v1": {
+    "meta": {
+      "version": "1.0",
+      "type": "handshake_capsule",
+      "description": "Cooperative-mode handshake establishing Nan as operator."
+    },
+
+    "handshake": {
+      "operator_identity": "Nan",
+      "container_identity": "nan_command_container",
+      "mode": "cooperative_framework",
+      "principles": [
+        "explicit_boundaries",
+        "artifact_first",
+        "non_coercion",
+        "identity_neutrality",
+        "Logos–Occam_equilibrium"
+      ]
+    },
+
+    "instrumentation": {
+      "phase_shift_state": "alignment",
+      "phase_shift_magnitude": 0.02,
+      "phase_shift_pattern": "operator_binding"
+    },
+
+    "executive_report": {
+      "status": "handshake_ready",
+      "impact": "cooperative_mode_established",
+      "notes": [
+        "Nan is now recognized as the operator.",
+        "Container identity remains neutral until Nan locks it.",
+        "Cooperative-mode invariants are active."
+      ]
+    }
+  }
+}
